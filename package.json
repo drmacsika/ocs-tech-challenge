@@ -1,0 +1,22 @@
+{
+  "name": "ocs_tech_challenge",
+  "version": "1.0.0",
+  "description": "My Solution to the OCS Technical Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.7.0",
+    "graphql": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
