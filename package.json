@@ -2,14 +2,21 @@
   "name": "ocs_tech_challenge",
   "version": "1.0.0",
   "description": "My Solution to the OCS Technical Challenge",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "src/index.ts",
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Nsikak Imoh",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./build/index.js",
+    "build": "tsc -p .",
+    "dev": "nodemon",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "lint": "eslint src/**/*.ts"
+  },
   "dependencies": {
+    "apollo-datasource-rest": "^3.5.3",
     "apollo-server": "^3.7.0",
     "graphql": "^16.5.0"
   },
