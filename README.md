@@ -7,11 +7,11 @@ Table of Contents:
 - [Guide on Query Usage](#guide-on-query-usage)
 - [Pagination](#pagination)
 - [Project Limitations](#project-limitations)
+- [Debugging issues with tests](#debugging-issues-with-tests)
 
 ## Tools
 
-Node.js
-
+- Node.js
 - Graphql
 - Typescript
 - Apollo Graphql Server
@@ -25,7 +25,7 @@ Use the package manager [npm](https://www.npmjs.com/package/download) for instal
 
 - Clone this repo
 - Navigate to the **root** directory where package.json is located.
-- Create a **.env** file in the **src** folder, add the two required parameters e.g: PANDASCORE_API_KEY=valid_pandascore_api_key
+- Create a **.env** file in the **src** folder, add the two required parameters (PANDASCORE_API_KEY and NODE_ENV) e.g: PANDASCORE_API_KEY=valid_pandascore_api_key
 - Run `npm install` to install dependencies and devDependencies
 - Run `npm run test` to run the tests
 - Run `npm run dev` to run the app in local dev environment
@@ -36,209 +36,213 @@ Use the package manager [npm](https://www.npmjs.com/package/download) for instal
 
 There are currently 7 active queries.
 
-###
+### Query points
 
-Query points
+- ```players(limit: int, page: int)```:- Return a list of players
 
-- players(limit: int, page: int)
-  Return a list of players
-
-Client Query
+```
 query Players($limit: Int, $page: Int) {
-players(limit: $limit, page: $page) {
-id
-slug
-birth_year
-birthday
-team {
-id
-slug
-}
-videogame {
-id
-slug
-}
-first_name
-last_name
-name
-nationality
-image_url
-}
-}
-
+    players(limit: $limit, page: $page) {
+      id
+      slug
+      birth_year
+      birthday
+      team {
+        id
+        slug
+      }
+      videogame {
+        id
+        slug
+      }
+      first_name
+      last_name
+      name
+      nationality
+      image_url
+    }
+  }
+```
+```
 Variables:
 {
-limit: 10
-page: 1
+    limit: 10
+    page: 1
 }
+```
 
-- player(id: int)
-  Return a single team
+- player(id: int):- Return a single team
 
-Client Query
+```
 query Player($id: ID!) {
-player(id: $id) {
-id
-slug
-birth_year
-birthday
-team {
-id
-slug
-}
-videogame {
-id
-slug
-}
-first_name
-last_name
-name
-nationality
-image_url
-}
-}
+    player(id: $id) {
+      id
+      slug
+      birth_year
+      birthday
+      team {
+        id
+        slug
+      }
+      videogame {
+        id
+        slug
+      }
+      first_name
+      last_name
+      name
+      nationality
+      image_url
+    }
+  }
+```
 
 Variables:
+```
 {
-id: 1
+    id: 1
 }
+```
+- teams:- Return a list of teams
 
-- teams
-  Return a list of teams
-
-Client query
+```
 query Teams {
-teams {
-id
-slug
-acronym
-name
-location
-players {
-id
-slug
-}
-image_url
-videogame {
-id
-slug
-}
-}
-}
+    teams {
+      id
+      slug
+      acronym
+      name
+      location
+      players {
+        id
+        slug
+      }
+      image_url
+      videogame {
+        id
+        slug
+      }
+    }
+  }
+```
 
-- team(id: int)
-  Return a single team
-
-Client query
+- team(id: int):- Return a single team
+```
 query Team($id: ID!) {
-team(id: $id) {
-id
-slug
-acronym
-name
-location
-image_url
-videogame {
-id
-slug
-}
-players {
-id
-slug
-}
-}
-}
+    team(id: $id) {
+      id
+      slug
+      acronym
+      name
+      location
+      image_url
+      videogame {
+        id
+        slug
+      }
+      players {
+        id
+        slug
+      }
+    }
+  }
+```
+Variables
+```
 {
-id: 131007
+    id: 131007
 }
+```
 
-- videogames
-  Returns a list of video games
-
-Client Query
+- videogames:- Returns a list of video games
+```
 query Videogames {
-videogames {
-id
-slug
-name
-description {
-title
-text
-}
-players {
-id
-slug
-}
-}
-}
+    videogames {
+      id
+      slug
+      name
+      description {
+        title
+        text
+      }
+      players {
+        id
+        slug
+      }
+    }
+  }
+```
 
-- videogame(id: int)
-  Returns a single video game
+- videogame(id: int):- Returns a single video game
 
-Client Query
+```
 query Videogame($id: ID!) {
-videogame(id: $id) {
-id
-slug
-name
-description {
-title
-text
-}
-players {
-id
-slug
-}
-}
-}
-
+    videogame(id: $id) {
+      id
+      slug
+      name
+      description {
+        title
+        text
+      }
+      players {
+        id
+        slug
+      }
+    }
+  }
+```
+```
 {
-id: 1
+    id: 1
 }
+```
 
-- featured
-  Returns random players and teams
+- featured:- Returns random players and teams
 
-Client Query
+
 query Featured {
-featured {
-... on Player {
-id
-slug
-birth_year
-birthday
-team {
-id
-slug
-}
-videogame {
-id
-slug
-}
-first_name
-last_name
-name
-nationality
-image_url
-}
-... on Team {
-id
-slug
-acronym
-name
-location
-players {
-id
-slug
-}
-image_url
-videogame_by_team: videogame {
-id
-slug
-}
-}
-}
-}
+```
+query Featured {
+    featured {
+      ... on Player {
+        id
+        slug
+        birth_year
+        birthday
+        team {
+          id
+          slug
+        }
+        videogame {
+          id
+          slug
+        }
+        first_name
+        last_name
+        name
+        nationality
+        image_url
+      }
+      ... on Team {
+        id
+        slug
+        acronym
+        name
+        location
+        players {
+          id
+          slug
+        }
+        image_url
+        videogame_by_team: videogame {
+          id
+          slug
+        }
+      }
+    }
+  }
+```
 
 ## Pagination
 
@@ -248,3 +252,7 @@ slug
 
 - There could be possibility of catching more advance edge cases and validations as well as error handling
 - End-to-end test
+
+## Debugging issues with tests
+- Ensure that a valid Pandascore API Key is set and the NODE ENV is also set
+- Clear out the snapshot src/__tests__/__snapshots__/resolvers.test.ts.snap
