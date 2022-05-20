@@ -2,6 +2,4 @@ export interface ContextType {
     context: any;
 }
 
-// export interface WikipediaAPIQueryParameters {
-
-// }
+export type AxiosRequestHeaders = Record<string, string | number | boolean>;
