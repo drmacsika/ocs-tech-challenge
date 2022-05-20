@@ -71,10 +71,10 @@ const resolvers = {
     // Resolvers for custom Participant type for random mix of players and teams
     Participant: {
       __resolveType(obj: any, context: any, info: any){
-        if(obj.current_team){
+        if(obj.hasOwnProperty('current_team')){
           return "Player";
         }
-        if (obj.players){
+        if (obj.hasOwnProperty('players')){
           return "Team";
         }
         return null;
