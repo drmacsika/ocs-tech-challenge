@@ -13,11 +13,11 @@ import { GET_PLAYERS, GET_PLAYER, GET_TEAMS, GET_TEAM, GET_VIDEOGAMES, GET_VIDEO
  * We use server.executeOperation to run test queries
  * against our instance of ApolloServer
  */
-
+const { server, pandascoreAPI, wikipediaAPI } = constructTestServer();
 
 describe('Players Resolver', () => {
   // We create a test server instance
-  const { server, pandascoreAPI, wikipediaAPI } = constructTestServer();
+
   test('Fetch list of players 1', async () => {
     // We run test queries
     // against our instance of ApolloServer
@@ -27,12 +27,14 @@ describe('Players Resolver', () => {
     expect(result).toHaveProperty('data.players');
     expect(result).toHaveProperty('data.players[0].team');
     expect(result).toHaveProperty('data.players[0].videogame');
+    expect(result).toMatchSnapshot();
   });
 
   test('Fetch paginated result of list of players 2', async () => {
     const result = await server.executeOperation({ query: GET_PLAYERS, variables: { limit: 11, page: 1 } });
     expect(result.errors).toBeUndefined();
     expect(result?.data?.players.length).toBe(11);
+    expect(result).toMatchSnapshot();
   });
   test('Fetch single player 1', async () => {
     // We run test queries different times
@@ -46,11 +48,10 @@ describe('Players Resolver', () => {
     expect(result).toHaveProperty('data.player');
     expect(result).toHaveProperty('data.player.team');
     expect(result).toHaveProperty('data.player.videogame');
+    expect(result).toMatchSnapshot();
   });
 });
-
 describe('Teams Resolver', () => {
-  const { server, pandascoreAPI, wikipediaAPI } = constructTestServer();
   test('Fetch list of teams 1', async () => {
     const result = await server.executeOperation({ query: GET_TEAMS });
     expect(result.errors).toBeUndefined();
@@ -58,6 +59,7 @@ describe('Teams Resolver', () => {
     expect(result).toHaveProperty('data.teams');
     expect(result).toHaveProperty('data.teams[0].players');
     expect(result).toHaveProperty('data.teams[0].videogame');
+    expect(result).toMatchSnapshot();
   });
 
   test('Fetch single team 1', async () => {
@@ -69,17 +71,18 @@ describe('Teams Resolver', () => {
     expect(result).toHaveProperty('data.team');
     expect(result).toHaveProperty('data.team.players');
     expect(result).toHaveProperty('data.team.videogame');
+    expect(result).toMatchSnapshot();
   });
 });
 
 describe('Video Games Resolver', () => {
-  const { server, pandascoreAPI, wikipediaAPI } = constructTestServer();
   test('Fetch list of video games 1', async () => {
     const result = await server.executeOperation({ query: GET_VIDEOGAMES });
     expect(result.errors).toBeUndefined();
     expect(result).toHaveProperty('data');
     expect(result).toHaveProperty('data.videogames[0].players');
     expect(result).toHaveProperty('data.videogames[0].description');
+    expect(result).toMatchSnapshot();
   });
   test('Verify Description from wikipedia 1', async () => {
     const result = await server.executeOperation({ query: GET_VIDEOGAME, variables: { id: 1 } });
@@ -95,6 +98,7 @@ describe('Video Games Resolver', () => {
     expect(result).toHaveProperty('data.videogame.description');
     expect(result).toHaveProperty('data.videogame.description.title');
     expect(result).toHaveProperty('data.videogame.description.text');
+    expect(result).toMatchSnapshot();
   });
   test('Fetch single videogame 1', async () => {
     const noIDResult = await server.executeOperation({ query: GET_VIDEOGAME });
@@ -105,15 +109,14 @@ describe('Video Games Resolver', () => {
     expect(result).toHaveProperty('data.videogame');
     expect(result).toHaveProperty('data.videogame.players');
     expect(result).toHaveProperty('data.videogame.description');
+    expect(result).toMatchSnapshot();
   });
 });
-
 // This test is different from the others as we want to
 // check specifically if the responses are randomized
 // by at most two query calls
 // We expect atleast one out of the two to be different
 describe('Random Features', () => {
-  const { server, pandascoreAPI, wikipediaAPI } = constructTestServer();
   test('Fetch featured players 1', async () => {
     const firstFeature = await server.executeOperation({ query: FEATURED });
     const secondFeature = await server.executeOperation({ query: FEATURED });
@@ -134,6 +137,6 @@ describe('Random Features', () => {
     expect(firstFeature?.data?.featured).not.toEqual(expect.arrayContaining(secondFeature?.data?.featured));
     expect(secondFeature?.data?.featured).not.toEqual(expect.arrayContaining(firstFeature?.data?.featured));
 
-    
+    expect(firstFeature).toMatchSnapshot();
   });
 });

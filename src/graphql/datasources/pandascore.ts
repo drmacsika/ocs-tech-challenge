@@ -41,8 +41,9 @@ class PandascoreAPI extends RESTDataSource {
 
   // Get data for a list of featured participants
   async getFeatured() {
-    const players = await this.get(`players?page=${randomInteger(1, 10)}&per_page=5`);
-    const teams = await this.get(`teams?page=${randomInteger(1, 10)}&per_page=5`);
+    const randInt = randomInteger(1, 10);
+    const players = await this.get(`players?page=${randInt}&per_page=5`);
+    const teams = await this.get(`teams?page=${randInt}&per_page=5`);
     return [...players, ...teams];
   }
 }
