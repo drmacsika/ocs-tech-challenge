@@ -1,20 +1,21 @@
-require('dotenv').config()
-
-import { ApolloServer } from "apollo-server";
-import typeDefs from "./graphql/schema";
-import resolvers from "./graphql/resolvers";
+/* eslint-disable eslint-comments/disable-enable-pair */
+/* eslint-disable @typescript-eslint/no-var-requires */
+/* eslint-disable no-console */
+import { ApolloServer } from 'apollo-server';
+import typeDefs from './graphql/schema';
+import resolvers from './graphql/resolvers';
 import dataSources from './graphql/datasources/index';
 import context from './graphql/context';
 
-
+require('dotenv').config();
 // Set up Apollo Server
 const server = new ApolloServer({
-    typeDefs,
-    resolvers,
-    csrfPrevention: true,
-    dataSources,
-    context,
-  });
+  typeDefs,
+  resolvers,
+  csrfPrevention: true,
+  dataSources,
+  context,
+});
 
 // Start the Apollo server if we're not running in a test environment.
 // if we're in a test env, we'll manually start it in a test

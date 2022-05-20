@@ -6,7 +6,7 @@ import gql from 'graphql-tag';
  */
 
 export const GET_PLAYERS = gql`
-query Players($limit: Int, $page: Int) {
+  query Players($limit: Int, $page: Int) {
     players(limit: $limit, page: $page) {
       id
       slug
@@ -28,10 +28,8 @@ query Players($limit: Int, $page: Int) {
     }
   }
 `;
-
-
 export const GET_PLAYER = gql`
-query Player($id: ID!) {
+  query Player($id: ID!) {
     player(id: $id) {
       id
       slug
@@ -54,10 +52,8 @@ query Player($id: ID!) {
   }
 `;
 
-
-
 export const GET_TEAMS = gql`
-query Teams {
+  query Teams {
     teams {
       id
       slug
@@ -77,11 +73,8 @@ query Teams {
   }
 `;
 
-
-
-
 export const GET_TEAM = gql`
-query Team($id: ID!) {
+  query Team($id: ID!) {
     team(id: $id) {
       id
       slug
@@ -101,11 +94,8 @@ query Team($id: ID!) {
   }
 `;
 
-
-
-
 export const GET_VIDEOGAMES = gql`
-query Videogames {
+  query Videogames {
     videogames {
       id
       slug
@@ -122,11 +112,8 @@ query Videogames {
   }
 `;
 
-
-
-
 export const GET_VIDEOGAME = gql`
-query Videogame($id: ID!) {
+  query Videogame($id: ID!) {
     videogame(id: $id) {
       id
       slug
@@ -143,10 +130,8 @@ query Videogame($id: ID!) {
   }
 `;
 
-
-
 export const FEATURED = gql`
-query Featured {
+  query Featured {
     featured {
       ... on Player {
         id
@@ -178,7 +163,7 @@ query Featured {
           slug
         }
         image_url
-        videogame_by_team:videogame {
+        videogame_by_team: videogame {
           id
           slug
         }

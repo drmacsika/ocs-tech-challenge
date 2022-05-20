@@ -8,148 +8,15 @@ Object {
         "birth_year": null,
         "birthday": null,
         "first_name": null,
-        "id": "41929",
+        "id": "41954",
         "image_url": null,
         "last_name": null,
-        "name": "Brofeld",
-        "nationality": "JP",
-        "slug": "brofeld",
+        "name": "Linkster",
+        "nationality": "US",
+        "slug": "linkster",
         "team": Object {
-          "id": "130252",
-          "slug": "jadeite",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": 1994,
-        "birthday": "1994-10-15",
-        "first_name": "Hisao",
-        "id": "41928",
-        "image_url": "https://cdn.pandascore.co/images/player/image/41928/fav_sylfy.png",
-        "last_name": "Yone",
-        "name": "SylFy",
-        "nationality": "JP",
-        "slug": "sylfy",
-        "team": Object {
-          "id": "130252",
-          "slug": "jadeite",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": null,
-        "id": "41927",
-        "image_url": null,
-        "last_name": null,
-        "name": "Ask",
-        "nationality": "JP",
-        "slug": "ask-554a1718-8245-4d14-9270-dcca32242906",
-        "team": Object {
-          "id": "130599",
-          "slug": "reignite",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": null,
-        "id": "41926",
-        "image_url": null,
-        "last_name": null,
-        "name": "kurozooted",
-        "nationality": "JP",
-        "slug": "kurozooted",
-        "team": Object {
-          "id": "130599",
-          "slug": "reignite",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": "Souta",
-        "id": "41925",
-        "image_url": null,
-        "last_name": "Sakurai",
-        "name": "sakurai",
-        "nationality": "JP",
-        "slug": "sakurai",
-        "team": Object {
-          "id": "130600",
-          "slug": "crest-gaming-valorant",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": null,
-        "id": "41924",
-        "image_url": null,
-        "last_name": null,
-        "name": "icq\`",
-        "nationality": null,
-        "slug": "icq-dea4c78f-a6be-4a0e-a4a6-f5e2f5b9aed1",
-        "team": Object {
-          "id": "129822",
-          "slug": "hydra",
-        },
-        "videogame": Object {
-          "id": "4",
-          "slug": "dota-2",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": "Gan",
-        "id": "41923",
-        "image_url": null,
-        "last_name": "Jin",
-        "name": "Wenzy",
-        "nationality": "CN",
-        "slug": "wenzy",
-        "team": Object {
-          "id": "129461",
-          "slug": "nsn-gaming",
-        },
-        "videogame": Object {
-          "id": "3",
-          "slug": "cs-go",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": "QiHao",
-        "id": "41922",
-        "image_url": null,
-        "last_name": "Guo",
-        "name": "G7h",
-        "nationality": "CN",
-        "slug": "g7h",
-        "team": Object {
-          "id": "129461",
-          "slug": "nsn-gaming",
+          "id": "131018",
+          "slug": "revel",
         },
         "videogame": Object {
           "id": "3",
@@ -160,15 +27,72 @@ Object {
         "birth_year": null,
         "birthday": null,
         "first_name": null,
-        "id": "41921",
+        "id": "41953",
         "image_url": null,
         "last_name": null,
-        "name": "GA rkgk",
-        "nationality": null,
-        "slug": "ga-rkgk",
+        "name": "KrakenS",
+        "nationality": "US",
+        "slug": "krakens",
         "team": Object {
-          "id": "130955",
-          "slug": "ghetto-artist",
+          "id": "131018",
+          "slug": "revel",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41952",
+        "image_url": null,
+        "last_name": null,
+        "name": "DCReaper",
+        "nationality": "US",
+        "slug": "dcreaper",
+        "team": Object {
+          "id": "131018",
+          "slug": "revel",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41951",
+        "image_url": null,
+        "last_name": null,
+        "name": "Pat_",
+        "nationality": "US",
+        "slug": "pat_",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41950",
+        "image_url": null,
+        "last_name": null,
+        "name": "PSJ xccurate",
+        "nationality": null,
+        "slug": "psj-xccurate",
+        "team": Object {
+          "id": "130642",
+          "slug": "persija-esports",
         },
         "videogame": Object {
           "id": "26",
@@ -179,15 +103,91 @@ Object {
         "birth_year": null,
         "birthday": null,
         "first_name": null,
-        "id": "41920",
+        "id": "41949",
         "image_url": null,
         "last_name": null,
-        "name": "we1yan",
-        "nationality": null,
-        "slug": "we1yan",
+        "name": "Reason",
+        "nationality": "US",
+        "slug": "reason",
         "team": Object {
-          "id": "130955",
-          "slug": "ghetto-artist",
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41948",
+        "image_url": null,
+        "last_name": null,
+        "name": "Pr0mise",
+        "nationality": "US",
+        "slug": "pr0mise-66e26852-ad7c-4718-aeca-f14cfb61d82f",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41947",
+        "image_url": null,
+        "last_name": null,
+        "name": "Rhyme",
+        "nationality": "US",
+        "slug": "rhyme-11288c88-1717-474f-950f-fd9c9b980510",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41946",
+        "image_url": null,
+        "last_name": null,
+        "name": "ChwE",
+        "nationality": "US",
+        "slug": "chwe",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41945",
+        "image_url": null,
+        "last_name": null,
+        "name": "AVM Meltings",
+        "nationality": null,
+        "slug": "avm-meltings",
+        "team": Object {
+          "id": "130977",
+          "slug": "avium-esports",
         },
         "videogame": Object {
           "id": "26",
@@ -214,209 +214,415 @@ Object {
         "birth_year": null,
         "birthday": null,
         "first_name": null,
-        "id": "41929",
+        "id": "41954",
         "image_url": null,
         "last_name": null,
-        "name": "Brofeld",
-        "nationality": "JP",
-        "slug": "brofeld",
-        "team": Object {
-          "id": "130252",
-          "slug": "jadeite",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": 1994,
-        "birthday": "1994-10-15",
-        "first_name": "Hisao",
-        "id": "41928",
-        "image_url": "https://cdn.pandascore.co/images/player/image/41928/fav_sylfy.png",
-        "last_name": "Yone",
-        "name": "SylFy",
-        "nationality": "JP",
-        "slug": "sylfy",
-        "team": Object {
-          "id": "130252",
-          "slug": "jadeite",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": null,
-        "id": "41927",
-        "image_url": null,
-        "last_name": null,
-        "name": "Ask",
-        "nationality": "JP",
-        "slug": "ask-554a1718-8245-4d14-9270-dcca32242906",
-        "team": Object {
-          "id": "130599",
-          "slug": "reignite",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": null,
-        "id": "41926",
-        "image_url": null,
-        "last_name": null,
-        "name": "kurozooted",
-        "nationality": "JP",
-        "slug": "kurozooted",
-        "team": Object {
-          "id": "130599",
-          "slug": "reignite",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": "Souta",
-        "id": "41925",
-        "image_url": null,
-        "last_name": "Sakurai",
-        "name": "sakurai",
-        "nationality": "JP",
-        "slug": "sakurai",
-        "team": Object {
-          "id": "130600",
-          "slug": "crest-gaming-valorant",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": null,
-        "id": "41924",
-        "image_url": null,
-        "last_name": null,
-        "name": "icq\`",
-        "nationality": null,
-        "slug": "icq-dea4c78f-a6be-4a0e-a4a6-f5e2f5b9aed1",
-        "team": Object {
-          "id": "129822",
-          "slug": "hydra",
-        },
-        "videogame": Object {
-          "id": "4",
-          "slug": "dota-2",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": "Gan",
-        "id": "41923",
-        "image_url": null,
-        "last_name": "Jin",
-        "name": "Wenzy",
-        "nationality": "CN",
-        "slug": "wenzy",
-        "team": Object {
-          "id": "129461",
-          "slug": "nsn-gaming",
-        },
-        "videogame": Object {
-          "id": "3",
-          "slug": "cs-go",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": "QiHao",
-        "id": "41922",
-        "image_url": null,
-        "last_name": "Guo",
-        "name": "G7h",
-        "nationality": "CN",
-        "slug": "g7h",
-        "team": Object {
-          "id": "129461",
-          "slug": "nsn-gaming",
-        },
-        "videogame": Object {
-          "id": "3",
-          "slug": "cs-go",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": null,
-        "id": "41921",
-        "image_url": null,
-        "last_name": null,
-        "name": "GA rkgk",
-        "nationality": null,
-        "slug": "ga-rkgk",
-        "team": Object {
-          "id": "130955",
-          "slug": "ghetto-artist",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": null,
-        "birthday": null,
-        "first_name": null,
-        "id": "41920",
-        "image_url": null,
-        "last_name": null,
-        "name": "we1yan",
-        "nationality": null,
-        "slug": "we1yan",
-        "team": Object {
-          "id": "130955",
-          "slug": "ghetto-artist",
-        },
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "birth_year": 2001,
-        "birthday": "2001-06-29",
-        "first_name": "Byron",
-        "id": "41919",
-        "image_url": null,
-        "last_name": "Vera",
-        "name": "Prolute",
+        "name": "Linkster",
         "nationality": "US",
-        "slug": "prolute",
+        "slug": "linkster",
         "team": Object {
-          "id": "130157",
-          "slug": "optic-texas",
+          "id": "131018",
+          "slug": "revel",
         },
         "videogame": Object {
-          "id": "23",
-          "slug": "cod-mw",
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41953",
+        "image_url": null,
+        "last_name": null,
+        "name": "KrakenS",
+        "nationality": "US",
+        "slug": "krakens",
+        "team": Object {
+          "id": "131018",
+          "slug": "revel",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41952",
+        "image_url": null,
+        "last_name": null,
+        "name": "DCReaper",
+        "nationality": "US",
+        "slug": "dcreaper",
+        "team": Object {
+          "id": "131018",
+          "slug": "revel",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41951",
+        "image_url": null,
+        "last_name": null,
+        "name": "Pat_",
+        "nationality": "US",
+        "slug": "pat_",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41950",
+        "image_url": null,
+        "last_name": null,
+        "name": "PSJ xccurate",
+        "nationality": null,
+        "slug": "psj-xccurate",
+        "team": Object {
+          "id": "130642",
+          "slug": "persija-esports",
+        },
+        "videogame": Object {
+          "id": "26",
+          "slug": "valorant",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41949",
+        "image_url": null,
+        "last_name": null,
+        "name": "Reason",
+        "nationality": "US",
+        "slug": "reason",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41948",
+        "image_url": null,
+        "last_name": null,
+        "name": "Pr0mise",
+        "nationality": "US",
+        "slug": "pr0mise-66e26852-ad7c-4718-aeca-f14cfb61d82f",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41947",
+        "image_url": null,
+        "last_name": null,
+        "name": "Rhyme",
+        "nationality": "US",
+        "slug": "rhyme-11288c88-1717-474f-950f-fd9c9b980510",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41946",
+        "image_url": null,
+        "last_name": null,
+        "name": "ChwE",
+        "nationality": "US",
+        "slug": "chwe",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41945",
+        "image_url": null,
+        "last_name": null,
+        "name": "AVM Meltings",
+        "nationality": null,
+        "slug": "avm-meltings",
+        "team": Object {
+          "id": "130977",
+          "slug": "avium-esports",
+        },
+        "videogame": Object {
+          "id": "26",
+          "slug": "valorant",
+        },
+      },
+    ],
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`Players Resolver Fetch paginated result of list of players 2 2`] = `
+Object {
+  "data": Object {
+    "players": Array [
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41954",
+        "image_url": null,
+        "last_name": null,
+        "name": "Linkster",
+        "nationality": "US",
+        "slug": "linkster",
+        "team": Object {
+          "id": "131018",
+          "slug": "revel",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41953",
+        "image_url": null,
+        "last_name": null,
+        "name": "KrakenS",
+        "nationality": "US",
+        "slug": "krakens",
+        "team": Object {
+          "id": "131018",
+          "slug": "revel",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41952",
+        "image_url": null,
+        "last_name": null,
+        "name": "DCReaper",
+        "nationality": "US",
+        "slug": "dcreaper",
+        "team": Object {
+          "id": "131018",
+          "slug": "revel",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41951",
+        "image_url": null,
+        "last_name": null,
+        "name": "Pat_",
+        "nationality": "US",
+        "slug": "pat_",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41950",
+        "image_url": null,
+        "last_name": null,
+        "name": "PSJ xccurate",
+        "nationality": null,
+        "slug": "psj-xccurate",
+        "team": Object {
+          "id": "130642",
+          "slug": "persija-esports",
+        },
+        "videogame": Object {
+          "id": "26",
+          "slug": "valorant",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41949",
+        "image_url": null,
+        "last_name": null,
+        "name": "Reason",
+        "nationality": "US",
+        "slug": "reason",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41948",
+        "image_url": null,
+        "last_name": null,
+        "name": "Pr0mise",
+        "nationality": "US",
+        "slug": "pr0mise-66e26852-ad7c-4718-aeca-f14cfb61d82f",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41947",
+        "image_url": null,
+        "last_name": null,
+        "name": "Rhyme",
+        "nationality": "US",
+        "slug": "rhyme-11288c88-1717-474f-950f-fd9c9b980510",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41946",
+        "image_url": null,
+        "last_name": null,
+        "name": "ChwE",
+        "nationality": "US",
+        "slug": "chwe",
+        "team": Object {
+          "id": "131017",
+          "slug": "sinister",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41945",
+        "image_url": null,
+        "last_name": null,
+        "name": "AVM Meltings",
+        "nationality": null,
+        "slug": "avm-meltings",
+        "team": Object {
+          "id": "130977",
+          "slug": "avium-esports",
+        },
+        "videogame": Object {
+          "id": "26",
+          "slug": "valorant",
+        },
+      },
+      Object {
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41944",
+        "image_url": null,
+        "last_name": null,
+        "name": "sstr1ct",
+        "nationality": "RU",
+        "slug": "sstr1ct",
+        "team": Object {
+          "id": "131016",
+          "slug": "youngsters",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
         },
       },
     ],
@@ -467,271 +673,391 @@ Object {
 exports[`Random Features Fetch featured players 1 1`] = `
 Object {
   "data": Object {
+    "videogames": Array [
+      Object {
+        "description": Object {
+          "text": "No wikipedia text found for this title.",
+          "title": "LoL Wild Rift",
+        },
+        "id": "28",
+        "name": "LoL Wild Rift",
+        "players": Array [],
+        "slug": "lol-wild-rift",
+      },
+      Object {
+        "description": Object {
+          "text": "Honor of Kings (simplified Chinese: 王者荣耀; traditional Chinese: 王者榮耀; pinyin: Wángzhě Róngyào; lit. 'King's glory', unofficially translated as King of Glory, or alternatively transliterated as Wang Zhe Rong Yao), is a multiplayer online battle arena developed by TiMi Studio Group and published by Tencent Games for the iOS and Android mobile platforms for the Chinese market.
+Released in 2015, it has become one of the most relevant MOBA games in mainland China. An international adaptation, titled Arena of Valor, was released in October 2016; it utilizes the same game engine and UI design but with greatly altered heroes to accommodate the Western market. By 2017, Honor of Kings had over 80 million daily active players and 200 million monthly active players making it most popular game in the world and with grossing more than $13.4 billion, it is the highest-grossing mobile game of all time as well as the most downloaded app globally and one of the highest-grossing games. As of November 2020, the game has over 100 million daily active players.",
+          "title": "Honor of Kings",
+        },
+        "id": "27",
+        "name": "King of Glory",
+        "players": Array [],
+        "slug": "kog",
+      },
+      Object {
+        "description": Object {
+          "text": "Valorant (stylized as VALORANT) is a free-to-play first-person hero shooter developed and published by Riot Games, for Microsoft Windows. First teased under the codename Project A in October 2019, the game began a closed beta period with limited access on April 7, 2020, followed by an official release on June 2, 2020. The development of the game started in 2014. Valorant takes inspiration from the Counter-Strike series of tactical shooters, borrowing several mechanics such as the buy menu, spray patterns, and inaccuracy while moving.",
+          "title": "Valorant",
+        },
+        "id": "26",
+        "name": "Valorant",
+        "players": Array [
+          Object {
+            "id": "41950",
+            "slug": "psj-xccurate",
+          },
+          Object {
+            "id": "41945",
+            "slug": "avm-meltings",
+          },
+        ],
+        "slug": "valorant",
+      },
+      Object {
+        "description": Object {
+          "text": "FIFA  ( French: Fédération Internationale de Football Association; English: International Federation of Association Football; Spanish: Federación Internacional de Fútbol Asociación; German: Internationaler Verband des Association-Fußball; Russian: Международная федерация футбола; Arabic: الاتحاد الدولي لكرة القدم) is a non-profit organization that describes itself as an international governing body of association football, futsal and beach soccer. It is the highest governing body of association football.
+FIFA was founded in 1904 to oversee international competition among the national associations of Belgium, Denmark, France, Germany, the Netherlands, Spain, Sweden and Switzerland. Headquartered in Zürich, Switzerland, its membership now comprises 211 national associations; Russia was suspended in 2022. These national associations must each also be members of one of the six regional confederations into which the world is divided: Africa, Asia, Europe, North & Central America and the Caribbean, Oceania and South America.
+Nowadays, FIFA outlines a number of objectives in the organizational Statutes, including growing association football internationally, providing efforts to ensure it is accessible to everyone, and advocating for integrity and fair play. FIFA is responsible for the organization and promotion of association football's major international tournaments, notably the World Cup which commenced in 1930 and the Women's World Cup which commenced in 1991. Although FIFA does not solely set the laws of the game, that being the responsibility of the International Football Association Board of which FIFA is a member, it applies and enforces the rules across all FIFA competitions. All FIFA tournaments generate revenue from sponsorship; in 2018, FIFA had revenues of over US $4.6 billion, ending the 2015–2018 cycle with a net positive of US$1.2 billion, and had cash reserves of over US$2.7 billion.Reports by investigative journalists have linked FIFA leadership with corruption, bribery, and vote-rigging related to the election of FIFA president Sepp Blatter and the organization's decision to award the 2018 and 2022 World Cups to Russia and Qatar, respectively. These allegations led to the indictments of nine high-ranking FIFA officials and five corporate executives by the U.S. Department of Justice on charges including racketeering, wire fraud, and money laundering. On 27 May 2015, several of these officials were arrested by Swiss authorities, who were launching a simultaneous but separate criminal investigation into how the organization awarded the 2018 and 2022 World Cups. Those among these officials who were also indicted in the U.S. are expected to be extradited to face charges there as well. Many officials were suspended by FIFA's ethics committee including Sepp Blatter and Michel Platini. In early 2017, reports became public about FIFA president Gianni Infantino attempting to prevent the re-elections of both chairmen of the ethics committee, Cornel Borbély and Hans-Joachim Eckert, during the FIFA congress in May 2017. On 9 May 2017, following Infantino's proposal, FIFA Council decided not to renew the mandates of Borbély and Eckert. Together with the chairmen, 11 of 13 committee members were removed.",
+          "title": "FIFA",
+        },
+        "id": "25",
+        "name": "FIFA",
+        "players": Array [],
+        "slug": "fifa",
+      },
+      Object {
+        "description": Object {
+          "text": "No wikipedia text found for this title.",
+          "title": "Rainbow 6 Siege",
+        },
+        "id": "24",
+        "name": "Rainbow 6 Siege",
+        "players": Array [],
+        "slug": "r6-siege",
+      },
+      Object {
+        "description": Object {
+          "text": "Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space. The games were first developed by Infinity Ward, then also by Treyarch and Sledgehammer Games. Several spin-off and handheld games were made by other developers. The most recent title, Call of Duty: Vanguard, was released on November 5, 2021.
+The series originally focused on the World War II setting, with Infinity Ward developing the first (2003) and second (2005) titles in the series and Treyarch developing the third (2006). Call of Duty 4: Modern Warfare (2007) introduced a new, modern setting, and proved to be the breakthrough title for the series, creating the Modern Warfare sub-series. The game's legacy also influenced the creation of a remastered version, released in 2016. Two other entries, Modern Warfare 2 (2009) and Modern Warfare 3 (2011), were made. The sub-series received a reboot with Modern Warfare in 2019. Infinity Ward have also developed two games outside of the Modern Warfare sub-series, Ghosts (2013) and Infinite Warfare (2016). Treyarch made one last World War II-based game, World at War (2008), before releasing Black Ops (2010) and subsequently creating the Black Ops sub-series. Four other entries, Black Ops II (2012), III (2015), 4 (2018), and Cold War (2020) were made, the latter in conjunction with Raven Software. Sledgehammer Games, who were co-developers for Modern Warfare 3, have also developed three titles, Advanced Warfare (2014), WWII (2017), and Vanguard (2021).
+As of April 2021, the series has sold over 400 million copies. Earlier games in the series released to universal acclaim, but several of the more recent installments have received mixed reviews, with some criticzing the series themes, settings, and supposed repetitivity. Meanwhile, the games in the series have consistently released annually to blockbuster-level sales, the series is verified by the Guinness World Records as the best-selling first-person shooter game series. It is also the most successful video game franchise created in the United States and the fourth best-selling video game franchise of all time. Other products in the franchise include a line of action figures designed by Plan B Toys, a card game created by Upper Deck Company, Mega Bloks sets by Mega Brands, and a comic book miniseries published by WildStorm Productions.",
+          "title": "Call of Duty",
+        },
+        "id": "23",
+        "name": "Call of Duty",
+        "players": Array [],
+        "slug": "cod-mw",
+      },
+      Object {
+        "description": Object {
+          "text": "Rocket League is a vehicular soccer video game developed and published by Psyonix. The game was first released for Microsoft Windows and PlayStation 4 in July 2015, with ports for Xbox One and Nintendo Switch being released later on.  In June 2016, 505 Games began distributing a physical retail version for PlayStation 4 and Xbox One, with Warner Bros. Interactive Entertainment taking over those duties by the end of 2017. Versions for macOS and Linux were also released in 2016, but support for their online services was dropped in 2020. The game went free-to-play in September 2020.
+Described as \\"soccer, but with rocket-powered cars\\", Rocket League has up to eight players assigned to each of the two teams, using rocket-powered vehicles to hit a ball into their opponent's goal and score points over the course of a match. The game includes single-player and multiplayer modes that can be played both locally and online, including cross-platform play between all versions. Later updates for the game enabled the ability to modify core rules and added new game modes, including ones based on ice hockey and basketball.
+Rocket League is a sequel to Psyonix's Supersonic Acrobatic Rocket-Powered Battle-Cars, a 2008 video game for the PlayStation 3. Battle-Cars received mixed reviews and was not a success, but gained a loyal fan base. Psyonix continued to support themselves through contract development work for other studios while looking to develop a sequel. Psyonix began formal development of Rocket League around 2013, refining the gameplay from Battle-Cars to address criticism and fan input. Psyonix also recognized their lack of marketing from Battle-Cars and engaged in both social media and promotions to market the game, including offering the game for free for PlayStation Plus members on release.
+Rocket League was praised for its gameplay improvements over Battle-Cars, as well as its graphics and overall presentation, although some criticism was directed towards the game's physics engine. The game earned a number of industry awards, and saw over 10 million sales and 40 million players by the beginning of 2018. Rocket League has also been adopted as an esport, with professional players participating through ESL and Major League Gaming along with Psyonix's own Rocket League Championship Series (RLCS).",
+          "title": "Rocket League",
+        },
+        "id": "22",
+        "name": "Rocket League",
+        "players": Array [],
+        "slug": "rl",
+      },
+      Object {
+        "description": Object {
+          "text": "PUBG: Battlegrounds (previously known as PlayerUnknown's Battlegrounds, or simply PUBG) is an online multiplayer battle royale game developed and published by PUBG Studios, a subsidiary of Krafton. The game is based on previous mods that were created by Brendan \\"PlayerUnknown\\" Greene for other games, inspired by the 2000 Japanese film Battle Royale, and expanded into a standalone game under Greene's creative direction. In the game, up to one hundred players parachute onto an island and scavenge for weapons and equipment to kill others while avoiding getting killed themselves. The available safe area of the game's map decreases in size over time, directing surviving players into tighter areas to force encounters. The last surviving player (or team) wins the round. This is the first game in the series, named PUBG Universe.
+PUBG: Battlegrounds was first released for Microsoft Windows via Steam's early access beta program in March 2017, with a full release in December 2017. The game was also released by Microsoft Studios for the Xbox One via its Xbox Game Preview program that same month, and officially released in September 2018. PUBG Mobile, a free-to-play mobile game version for Android and iOS, was released in 2018, in addition to a port for the PlayStation 4. A version for the Stadia streaming platform was released in April 2020, Xbox Series X/S and PlayStation 5 versions released in November 2020. 
+PUBG: Battlegrounds is the best-selling video game on PC and Xbox One, also the fifth best-selling video game of all time, sold over 75 million copies on personal computers and game consoles as end of 2021. While the more successful PUBG Mobile's global version has accumulated more than 1 billion downloads and grossed over $8 billion on mobile devices making it the fourth highest-grossing mobile game, combined with the revenue of PC and console game's $4.65 billion, PUBG: Battlegrounds has a total revenue of $12.65 billion as of April 2022, making it one of the highest-grossing video games of all time. Also, combined with 1.12 billion mobile players, PUBG: Battlegrounds has a total player count of 1.2 billion as of August 2021, surpassed Crossfire to be the most-played video game of all time. The main game has been free-to-play since January 2022.
+PUBG received positive reviews from critics, who found that while the game had some technical flaws, it presented new types of gameplay that could be easily approached by players of any skill level and was highly replayable. The game was attributed to popularizing the battle royale genre, with a number of unofficial Chinese clones also being produced following its success. The game received several Game of the Year nominations, among other accolades. PUBG Corporation has run several small tournaments and introduced in-game tools to help with broadcasting the game to spectators, as they wish for it to become a popular esport.",
+          "title": "PUBG: Battlegrounds",
+        },
+        "id": "20",
+        "name": "PUBG",
+        "players": Array [],
+        "slug": "pubg",
+      },
+      Object {
+        "description": Object {
+          "text": "Overwatch is a 2016 team-based multiplayer first-person shooter game developed and published by Blizzard Entertainment. Described as a \\"hero shooter\\", Overwatch assigns players into two teams of six, with each player selecting from a large roster of characters, known as \\"heroes\\", with unique abilities. Teams work to complete map-specific objectives within a limited period of time. Blizzard has added new characters, maps, and game modes post-release, all free of charge, with the only additional cost to players being optional loot boxes to purchase cosmetic items. It was released for PlayStation 4, Xbox One, and Windows in May 2016 and Nintendo Switch in October 2019. An optimized performance patch for the Xbox Series X and Series S was released in March 2021. Cross-platform play is supported across all platforms.
+Overwatch is Blizzard's fourth major franchise and came about following the 2014 cancellation of a massively multiplayer online role-playing game, Titan. A portion of the Titan team were inspired by the success of team-based first-person shooters like Team Fortress 2 and the popularity of multiplayer online battle arena games, creating a hero-based shooter which emphasized teamwork. Some elements of Overwatch borrow concepts from the canceled Titan project.
+Overwatch was unveiled at the 2014 BlizzCon event and was in a closed beta from late 2015 through early 2016. An open beta before release drew in nearly 10 million players. Overwatch received universal acclaim from critics, who praised the game for its accessibility, the diverse appeal of its hero characters, its cartoonish art style, and enjoyable gameplay. Blizzard reported over US$1 billion in revenue during the first year of its release and had more than 50 million players after three years. Overwatch is considered to be among the greatest video games of all time, receiving numerous game of the year awards and other accolades. The game is a popular esport, with Blizzard funding and producing the global Overwatch League.
+A sequel, Overwatch 2, was announced in 2019 and will include new player versus environment (PvE) co-operative multiplayer modes. In addition, it will have a shared competitive multiplayer environment, allowing players of both games to play against each other. While it will be sold as a separate game, all-new heroes, maps, and competitive gamemodes will also exist in Overwatch.",
+          "title": "Overwatch",
+        },
+        "id": "14",
+        "name": "Overwatch",
+        "players": Array [],
+        "slug": "ow",
+      },
+      Object {
+        "description": Object {
+          "text": "Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character known as a \\"hero\\" that all have unique abilities and differing styles of play. During a match players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's \\"Ancient\\", a large structure located within their base.
+Development of Dota 2 began in 2009 when IceFrog, lead designer of Defense of the Ancients, was hired by Valve to create a modernized remake for them in the Source game engine. It was released for Microsoft Windows, OS X, and Linux via the digital distribution platform Steam in July 2013, following a Windows-only open beta phase that began two years prior. The game is fully free-to-play with no heroes or any other gameplay element needing to be bought or otherwise unlocked. To maintain it, Valve supports the game as a service, selling loot boxes and a battle pass subscription system called Dota Plus that offer non-gameplay altering virtual goods in return, such as hero cosmetics and audio replacement packs. The game was ported to the Source 2 engine in 2015, making it the first game to use it.
+Dota 2 has a large esports scene, with teams from around the world playing in various professional leagues and tournaments. Valve manages an event format known as the Dota Pro Circuit, a series of tournaments that award qualification points for earning direct invitations to The International, the game's premier annual tournament. Internationals feature a crowdfunded prize money system that has seen amounts in upwards of US$40 million, making Dota 2 the most lucrative esports game. Media coverage of most tournaments is done by a selection of on-site staff who provide commentary and analysis for the ongoing matches, similar to traditional sporting events. In addition to playing live to audiences in arenas and stadiums, broadcasts of them are also streamed over the internet and sometimes simulcast on television networks, with peak viewership numbers in the millions.
+Despite some criticism going towards its steep learning curve and overall complexity, Dota 2 was praised for its rewarding gameplay, production quality, and faithfulness to its predecessor, with many considering it to be one of the greatest video games of all time. It has been one of the most played games on Steam since its release, with over a million concurrent players at its peak. The popularity of the game has led to official merchandise and media adaptations for it being produced, including comic books and an anime series, as well as promotional tie-ins to other games and media. The game also allows for the community to create their own gamemodes, maps, and cosmetics, which are uploaded to the Steam Workshop. Two spinoff games, Artifact and Dota Underlords, were also released by Valve. Dota 2 has also been used in machine learning experiments, with a team of bots known as the OpenAI Five showing the capability to defeat professional players.
+
+",
+          "title": "Dota 2",
+        },
+        "id": "4",
+        "name": "Dota 2",
+        "players": Array [],
+        "slug": "dota-2",
+      },
+      Object {
+        "description": Object {
+          "text": null,
+          "title": null,
+        },
+        "id": "3",
+        "name": "CS:GO",
+        "players": Array [
+          Object {
+            "id": "41954",
+            "slug": "linkster",
+          },
+          Object {
+            "id": "41953",
+            "slug": "krakens",
+          },
+          Object {
+            "id": "41952",
+            "slug": "dcreaper",
+          },
+          Object {
+            "id": "41951",
+            "slug": "pat_",
+          },
+          Object {
+            "id": "41949",
+            "slug": "reason",
+          },
+          Object {
+            "id": "41948",
+            "slug": "pr0mise-66e26852-ad7c-4718-aeca-f14cfb61d82f",
+          },
+          Object {
+            "id": "41947",
+            "slug": "rhyme-11288c88-1717-474f-950f-fd9c9b980510",
+          },
+          Object {
+            "id": "41946",
+            "slug": "chwe",
+          },
+        ],
+        "slug": "cs-go",
+      },
+      Object {
+        "description": Object {
+          "text": "League of Legends (LoL), commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's founders sought to develop a stand-alone game in the same genre. Since its release in October 2009, League has been free-to-play and is monetized through purchasable character customization. The game is available for Microsoft Windows and macOS.
+In the game, two teams of five players battle in player-versus-player combat, each team occupying and defending their half of the map. Each of the ten players controls a character, known as a \\"champion\\", with unique abilities and differing styles of play. During a match, champions become more powerful by collecting experience points, earning gold, and purchasing items to defeat the opposing team. In League's main mode, Summoner's Rift, a team wins by pushing through to the enemy base and destroying their \\"Nexus\\", a large structure located within.
+League of Legends has received generally positive reviews; critics highlighted its accessibility, character designs, and production value. The game's long lifespan has resulted in a critical reappraisal, with reviews trending positively; the negative and abusive in-game behavior of its players, criticized since early in the game's lifetime, persists despite Riot's attempts to fix the problem. In 2019, League regularly peaked at eight million concurrent players, and its popularity has led to tie-ins such as music videos, comic books, short stories, and an animated series, Arcane. Its success has also spawned several spin-off video games, including a mobile version, a digital collectible card game and a turn-based role-playing game, among others. A massively multiplayer online role-playing game based on the property is in development.
+Regularly cited as the world's largest esport, the game has an international competitive scene consisting of 12 leagues. These domestic leagues culminate in the annual League of Legends World Championship. The 2019 event registered over 100 million unique viewers, peaking at a concurrent viewership of 44 million. Domestic and international events have been broadcast on livestreaming websites such as Twitch, YouTube, Bilibili, and on cable television sports channel ESPN.",
+          "title": "League of Legends",
+        },
+        "id": "1",
+        "name": "LoL",
+        "players": Array [],
+        "slug": "league-of-legends",
+      },
+    ],
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`Random Features Fetch featured players 1 2`] = `
+Object {
+  "data": Object {
     "featured": Array [
       Object {
-        "birth_year": 2005,
-        "birthday": "2005-02-22",
-        "first_name": "Aston",
-        "id": "41909",
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41939",
         "image_url": null,
-        "last_name": "Smith",
-        "name": "accro",
-        "nationality": "GB",
-        "slug": "accro",
+        "last_name": null,
+        "name": "hirow",
+        "nationality": "RU",
+        "slug": "hirow",
         "team": Object {
-          "id": "128767",
-          "slug": "wylde-rl",
+          "id": "131013",
+          "slug": "4erti-gaming",
         },
         "videogame": Object {
-          "id": "22",
-          "slug": "rl",
-        },
-      },
-      Object {
-        "birth_year": 2005,
-        "birthday": "2005-10-09",
-        "first_name": "Simas",
-        "id": "41908",
-        "image_url": null,
-        "last_name": "Gurskis",
-        "name": "simas",
-        "nationality": "LT",
-        "slug": "simas",
-        "team": Object {
-          "id": "128767",
-          "slug": "wylde-rl",
-        },
-        "videogame": Object {
-          "id": "22",
-          "slug": "rl",
-        },
-      },
-      Object {
-        "birth_year": 2006,
-        "birthday": "2006-06-03",
-        "first_name": "Shaun",
-        "id": "41907",
-        "image_url": null,
-        "last_name": "Murindagomo",
-        "name": "Crispy",
-        "nationality": "GB",
-        "slug": "crispy",
-        "team": Object {
-          "id": "128767",
-          "slug": "wylde-rl",
-        },
-        "videogame": Object {
-          "id": "22",
-          "slug": "rl",
+          "id": "3",
+          "slug": "cs-go",
         },
       },
       Object {
         "birth_year": null,
         "birthday": null,
         "first_name": null,
-        "id": "41906",
+        "id": "41938",
         "image_url": null,
         "last_name": null,
-        "name": "0n1y",
-        "nationality": null,
-        "slug": "k7-0n1y",
+        "name": "Guretokira",
+        "nationality": "RU",
+        "slug": "guretokira",
         "team": Object {
-          "id": "130959",
-          "slug": "k7-esports",
+          "id": "131013",
+          "slug": "4erti-gaming",
         },
         "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
+          "id": "3",
+          "slug": "cs-go",
         },
       },
       Object {
         "birth_year": null,
         "birthday": null,
         "first_name": null,
-        "id": "41905",
+        "id": "41937",
         "image_url": null,
         "last_name": null,
-        "name": "YBUR",
-        "nationality": null,
-        "slug": "ybur",
+        "name": "felkz",
+        "nationality": "RU",
+        "slug": "felkz",
         "team": Object {
-          "id": "131006",
-          "slug": "thailand-league-of-legends",
+          "id": "131013",
+          "slug": "4erti-gaming",
         },
         "videogame": Object {
-          "id": "1",
-          "slug": "league-of-legends",
+          "id": "3",
+          "slug": "cs-go",
         },
       },
       Object {
-        "acronym": null,
-        "id": "130976",
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41936",
         "image_url": null,
-        "location": "AR",
-        "name": "SunXet Club",
-        "players": Array [
-          Object {
-            "id": "34273",
-            "slug": "fross-ec363ce0-73a8-4eb9-8e1f-621de997575d",
-          },
-          Object {
-            "id": "34422",
-            "slug": "rochet-felipe-ignacio-rochet-gajardo",
-          },
-          Object {
-            "id": "35954",
-            "slug": "roan",
-          },
-          Object {
-            "id": "41726",
-            "slug": "fenny-49436c0a-b0dd-4a8e-8b06-3136c6cbe866",
-          },
-          Object {
-            "id": "41727",
-            "slug": "jotinha",
-          },
-        ],
-        "slug": "sunxet-club",
-        "videogame_by_team": Object {
-          "id": "26",
-          "slug": "valorant",
+        "last_name": null,
+        "name": "nothbiu",
+        "nationality": "RU",
+        "slug": "nothbiu",
+        "team": Object {
+          "id": "130815",
+          "slug": "xnova",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
         },
       },
       Object {
-        "acronym": null,
-        "id": "130975",
+        "birth_year": null,
+        "birthday": null,
+        "first_name": null,
+        "id": "41935",
         "image_url": null,
-        "location": "CL",
-        "name": "PAMPAS",
-        "players": Array [
-          Object {
-            "id": "32761",
-            "slug": "leonzhett",
-          },
-          Object {
-            "id": "34267",
-            "slug": "olzerr",
-          },
-          Object {
-            "id": "35418",
-            "slug": "mono-8b09cc3c-6492-4676-8505-e95ee79307f3",
-          },
-          Object {
-            "id": "35428",
-            "slug": "rubkkoide",
-          },
-          Object {
-            "id": "41725",
-            "slug": "diewijas",
-          },
-        ],
-        "slug": "pampas-valorant",
-        "videogame_by_team": Object {
-          "id": "26",
-          "slug": "valorant",
+        "last_name": null,
+        "name": "Sandman777",
+        "nationality": "ID",
+        "slug": "sandman777",
+        "team": Object {
+          "id": "130665",
+          "slug": "nexga",
+        },
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
         },
       },
       Object {
         "acronym": null,
-        "id": "130974",
-        "image_url": "https://cdn.pandascore.co/images/team/image/130974/zero_tenacitylogo_square.png",
-        "location": "RS",
-        "name": "Zero Tenacity",
-        "players": Array [
-          Object {
-            "id": "33229",
-            "slug": "qxv",
-          },
-          Object {
-            "id": "37247",
-            "slug": "jas",
-          },
-          Object {
-            "id": "37248",
-            "slug": "kenobi",
-          },
-          Object {
-            "id": "37250",
-            "slug": "xitsha",
-          },
-          Object {
-            "id": "41713",
-            "slug": "ayke",
-          },
-        ],
-        "slug": "zero-tenacity-valorant",
+        "id": "130981",
+        "image_url": null,
+        "location": "",
+        "name": "AFTER PARTY",
+        "players": Array [],
+        "slug": "after-party",
         "videogame_by_team": Object {
-          "id": "26",
-          "slug": "valorant",
+          "id": "3",
+          "slug": "cs-go",
         },
       },
       Object {
         "acronym": null,
-        "id": "130973",
-        "image_url": "https://cdn.pandascore.co/images/team/image/130973/600px_enterprise_esports_allmode.png",
-        "location": "CZ",
-        "name": "Enterprise Esports",
-        "players": Array [
-          Object {
-            "id": "34461",
-            "slug": "cantzer",
-          },
-          Object {
-            "id": "34463",
-            "slug": "elysium",
-          },
-          Object {
-            "id": "36066",
-            "slug": "mafin",
-          },
-          Object {
-            "id": "41718",
-            "slug": "minny",
-          },
-          Object {
-            "id": "41719",
-            "slug": "alexiiik",
-          },
-        ],
-        "slug": "enterprise-esports-valorant",
+        "id": "130980",
+        "image_url": null,
+        "location": "",
+        "name": "ILLYRIANS",
+        "players": Array [],
+        "slug": "illyrians",
         "videogame_by_team": Object {
-          "id": "26",
-          "slug": "valorant",
+          "id": "3",
+          "slug": "cs-go",
         },
       },
       Object {
         "acronym": null,
-        "id": "130972",
-        "image_url": "https://cdn.pandascore.co/images/team/image/130972/600px_diamant_esports_lightmode.png",
-        "location": "SI",
-        "name": "Diamant Esports",
+        "id": "130979",
+        "image_url": null,
+        "location": "",
+        "name": "murders2002",
+        "players": Array [],
+        "slug": "murders2002",
+        "videogame_by_team": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "acronym": null,
+        "id": "130978",
+        "image_url": null,
+        "location": "",
+        "name": "agregat10",
+        "players": Array [],
+        "slug": "agregat10",
+        "videogame_by_team": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "acronym": null,
+        "id": "130977",
+        "image_url": "https://cdn.pandascore.co/images/team/image/130977/223px_avium_esports_lightmode.png",
+        "location": "",
+        "name": "Avium Esports",
         "players": Array [
           Object {
-            "id": "41712",
-            "slug": "grmekista",
+            "id": "38953",
+            "slug": "riza",
           },
           Object {
-            "id": "41714",
-            "slug": "patix",
+            "id": "38959",
+            "slug": "aanszo",
           },
           Object {
-            "id": "41715",
-            "slug": "prti",
+            "id": "39161",
+            "slug": "haise",
           },
           Object {
-            "id": "41716",
-            "slug": "tatzuki",
+            "id": "41795",
+            "slug": "alfin",
           },
           Object {
-            "id": "41717",
-            "slug": "bmblbe",
+            "id": "41796",
+            "slug": "daynos",
           },
           Object {
-            "id": "41821",
-            "slug": "patr1k",
+            "id": "41847",
+            "slug": "avm-toggled",
+          },
+          Object {
+            "id": "41945",
+            "slug": "avm-meltings",
           },
         ],
-        "slug": "diamant-esports-valorant",
+        "slug": "avium-esports",
         "videogame_by_team": Object {
           "id": "26",
           "slug": "valorant",
@@ -755,11 +1081,173 @@ Object {
     "teams": Array [
       Object {
         "acronym": null,
+        "id": "131018",
+        "image_url": "https://cdn.pandascore.co/images/team/image/131018/37px_revel_lightmode.png",
+        "location": "",
+        "name": "Revel",
+        "players": Array [
+          Object {
+            "id": "35796",
+            "slug": "anthran",
+          },
+          Object {
+            "id": "40244",
+            "slug": "jachro",
+          },
+          Object {
+            "id": "41952",
+            "slug": "dcreaper",
+          },
+          Object {
+            "id": "41953",
+            "slug": "krakens",
+          },
+          Object {
+            "id": "41954",
+            "slug": "linkster",
+          },
+        ],
+        "slug": "revel",
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "acronym": null,
+        "id": "131017",
+        "image_url": null,
+        "location": "",
+        "name": "sinister",
+        "players": Array [
+          Object {
+            "id": "41946",
+            "slug": "chwe",
+          },
+          Object {
+            "id": "41947",
+            "slug": "rhyme-11288c88-1717-474f-950f-fd9c9b980510",
+          },
+          Object {
+            "id": "41948",
+            "slug": "pr0mise-66e26852-ad7c-4718-aeca-f14cfb61d82f",
+          },
+          Object {
+            "id": "41949",
+            "slug": "reason",
+          },
+          Object {
+            "id": "41951",
+            "slug": "pat_",
+          },
+        ],
+        "slug": "sinister",
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "acronym": null,
+        "id": "131016",
+        "image_url": null,
+        "location": "",
+        "name": "Youngsters",
+        "players": Array [
+          Object {
+            "id": "25468",
+            "slug": "h1te",
+          },
+          Object {
+            "id": "30531",
+            "slug": "alpha1337",
+          },
+          Object {
+            "id": "33193",
+            "slug": "dekzz",
+          },
+          Object {
+            "id": "38521",
+            "slug": "sm3t",
+          },
+          Object {
+            "id": "41944",
+            "slug": "sstr1ct",
+          },
+        ],
+        "slug": "youngsters",
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "acronym": null,
+        "id": "131015",
+        "image_url": "https://cdn.pandascore.co/images/team/image/131015/49px_holkattes_esports_allmode.png",
+        "location": "",
+        "name": "Holkattes",
+        "players": Array [
+          Object {
+            "id": "25446",
+            "slug": "tba",
+          },
+          Object {
+            "id": "26629",
+            "slug": "yokowow",
+          },
+          Object {
+            "id": "30917",
+            "slug": "andizin",
+          },
+          Object {
+            "id": "33562",
+            "slug": "christo",
+          },
+          Object {
+            "id": "35403",
+            "slug": "pavv",
+          },
+        ],
+        "slug": "holkattes",
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "acronym": null,
+        "id": "131014",
+        "image_url": null,
+        "location": "",
+        "name": "MOONBOYS",
+        "players": Array [],
+        "slug": "moonboys",
+        "videogame": Object {
+          "id": "3",
+          "slug": "cs-go",
+        },
+      },
+      Object {
+        "acronym": null,
         "id": "131013",
         "image_url": null,
         "location": "",
         "name": "4erti Gaming",
-        "players": Array [],
+        "players": Array [
+          Object {
+            "id": "41937",
+            "slug": "felkz",
+          },
+          Object {
+            "id": "41938",
+            "slug": "guretokira",
+          },
+          Object {
+            "id": "41939",
+            "slug": "hirow",
+          },
+        ],
         "slug": "4erti-gaming",
         "videogame": Object {
           "id": "3",
@@ -772,7 +1260,24 @@ Object {
         "image_url": null,
         "location": "",
         "name": "Impulse",
-        "players": Array [],
+        "players": Array [
+          Object {
+            "id": "41940",
+            "slug": "hirambo",
+          },
+          Object {
+            "id": "41941",
+            "slug": "winnable",
+          },
+          Object {
+            "id": "41942",
+            "slug": "tieubanhbao",
+          },
+          Object {
+            "id": "41943",
+            "slug": "talang",
+          },
+        ],
         "slug": "impulse-cs-go",
         "videogame": Object {
           "id": "3",
@@ -1564,6 +2069,10 @@ Object {
             "id": "41847",
             "slug": "avm-toggled",
           },
+          Object {
+            "id": "41945",
+            "slug": "avm-meltings",
+          },
         ],
         "slug": "avium-esports",
         "videogame": Object {
@@ -1918,139 +2427,6 @@ Object {
           "slug": "valorant",
         },
       },
-      Object {
-        "acronym": null,
-        "id": "130966",
-        "image_url": "https://cdn.pandascore.co/images/team/image/130966/285px_blitz_azira_esports.png",
-        "location": "MY",
-        "name": "Blitz Esports",
-        "players": Array [
-          Object {
-            "id": "41797",
-            "slug": "anashi",
-          },
-          Object {
-            "id": "41798",
-            "slug": "jason-4e1c533d-01c0-45de-82d0-81002022d0b1",
-          },
-          Object {
-            "id": "41799",
-            "slug": "edw4rd",
-          },
-          Object {
-            "id": "41800",
-            "slug": "jans0n",
-          },
-          Object {
-            "id": "41846",
-            "slug": "bze-vriefy",
-          },
-        ],
-        "slug": "blitz-esports",
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "acronym": null,
-        "id": "130965",
-        "image_url": null,
-        "location": "SG",
-        "name": "KPMOONIIBLM9",
-        "players": Array [
-          Object {
-            "id": "41732",
-            "slug": "bryce-805c42f4-8c61-4ad4-8830-fc56f5b48dee",
-          },
-          Object {
-            "id": "41733",
-            "slug": "xenoo",
-          },
-        ],
-        "slug": "kpmooniiblm9",
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "acronym": null,
-        "id": "130964",
-        "image_url": "https://cdn.pandascore.co/images/team/image/130964/150px_todak_lightmode.png",
-        "location": "MY",
-        "name": "Todak",
-        "players": Array [
-          Object {
-            "id": "41777",
-            "slug": "subbey-dc54af5f-31f9-400f-a209-57f7b16551b1",
-          },
-          Object {
-            "id": "41778",
-            "slug": "jeed",
-          },
-          Object {
-            "id": "41779",
-            "slug": "senna-5ffee110-7e6e-4c5b-95fa-676fe84040fa",
-          },
-          Object {
-            "id": "41780",
-            "slug": "aduka",
-          },
-          Object {
-            "id": "41781",
-            "slug": "kael-d2ea2eb6-ceae-409c-bee4-70ca8c363f02",
-          },
-        ],
-        "slug": "todak",
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "acronym": null,
-        "id": "130963",
-        "image_url": null,
-        "location": "",
-        "name": "OG Brudders",
-        "players": Array [],
-        "slug": "og-brudders",
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
-      Object {
-        "acronym": null,
-        "id": "130962",
-        "image_url": "https://cdn.pandascore.co/images/team/image/130962/285px_long_amazing_zebra_ears_allmode.png",
-        "location": "SG",
-        "name": "LaZe",
-        "players": Array [
-          Object {
-            "id": "41734",
-            "slug": "lze-nephh",
-          },
-          Object {
-            "id": "41735",
-            "slug": "lze-artn",
-          },
-          Object {
-            "id": "41736",
-            "slug": "freyr",
-          },
-          Object {
-            "id": "41737",
-            "slug": "dzii-ec78cb59-3abb-45a0-92ac-4d13e86c3391",
-          },
-        ],
-        "slug": "laze-valorant",
-        "videogame": Object {
-          "id": "26",
-          "slug": "valorant",
-        },
-      },
     ],
   },
   "errors": undefined,
@@ -2115,211 +2491,6 @@ Object {
 }
 `;
 
-exports[`Video Games Resolver Fetch list of video games 1 1`] = `
-Object {
-  "data": Object {
-    "videogames": Array [
-      Object {
-        "description": Object {
-          "text": "No wikipedia text found for this title.",
-          "title": "LoL Wild Rift",
-        },
-        "id": "28",
-        "name": "LoL Wild Rift",
-        "players": Array [],
-        "slug": "lol-wild-rift",
-      },
-      Object {
-        "description": Object {
-          "text": "Honor of Kings (simplified Chinese: 王者荣耀; traditional Chinese: 王者榮耀; pinyin: Wángzhě Róngyào; lit. 'King's glory', unofficially translated as King of Glory, or alternatively transliterated as Wang Zhe Rong Yao), is a multiplayer online battle arena developed by TiMi Studio Group and published by Tencent Games for the iOS and Android mobile platforms for the Chinese market.
-Released in 2015, it has become one of the most relevant MOBA games in mainland China. An international adaptation, titled Arena of Valor, was released in October 2016; it utilizes the same game engine and UI design but with greatly altered heroes to accommodate the Western market. By 2017, Honor of Kings had over 80 million daily active players and 200 million monthly active players making it most popular game in the world and with grossing more than $13.4 billion, it is the highest-grossing mobile game of all time as well as the most downloaded app globally and one of the highest-grossing games. As of November 2020, the game has over 100 million daily active players.",
-          "title": "Honor of Kings",
-        },
-        "id": "27",
-        "name": "King of Glory",
-        "players": Array [],
-        "slug": "kog",
-      },
-      Object {
-        "description": Object {
-          "text": "Valorant (stylized as VALORANT) is a free-to-play first-person hero shooter developed and published by Riot Games, for Microsoft Windows. First teased under the codename Project A in October 2019, the game began a closed beta period with limited access on April 7, 2020, followed by an official release on June 2, 2020. The development of the game started in 2014. Valorant takes inspiration from the Counter-Strike series of tactical shooters, borrowing several mechanics such as the buy menu, spray patterns, and inaccuracy while moving.",
-          "title": "Valorant",
-        },
-        "id": "26",
-        "name": "Valorant",
-        "players": Array [
-          Object {
-            "id": "41929",
-            "slug": "brofeld",
-          },
-          Object {
-            "id": "41928",
-            "slug": "sylfy",
-          },
-          Object {
-            "id": "41927",
-            "slug": "ask-554a1718-8245-4d14-9270-dcca32242906",
-          },
-          Object {
-            "id": "41926",
-            "slug": "kurozooted",
-          },
-          Object {
-            "id": "41925",
-            "slug": "sakurai",
-          },
-          Object {
-            "id": "41921",
-            "slug": "ga-rkgk",
-          },
-          Object {
-            "id": "41920",
-            "slug": "we1yan",
-          },
-        ],
-        "slug": "valorant",
-      },
-      Object {
-        "description": Object {
-          "text": "FIFA  ( French: Fédération Internationale de Football Association; English: International Federation of Association Football; Spanish: Federación Internacional de Fútbol Asociación; German: Internationaler Verband des Association-Fußball; Russian: Международная федерация футбола; Arabic: الاتحاد الدولي لكرة القدم) is a non-profit organization that describes itself as an international governing body of association football, futsal and beach soccer. It is the highest governing body of association football.
-FIFA was founded in 1904 to oversee international competition among the national associations of Belgium, Denmark, France, Germany, the Netherlands, Spain, Sweden and Switzerland. Headquartered in Zürich, Switzerland, its membership now comprises 211 national associations; Russia was suspended in 2022. These national associations must each also be members of one of the six regional confederations into which the world is divided: Africa, Asia, Europe, North & Central America and the Caribbean, Oceania and South America.
-Nowadays, FIFA outlines a number of objectives in the organizational Statutes, including growing association football internationally, providing efforts to ensure it is accessible to everyone, and advocating for integrity and fair play. FIFA is responsible for the organization and promotion of association football's major international tournaments, notably the World Cup which commenced in 1930 and the Women's World Cup which commenced in 1991. Although FIFA does not solely set the laws of the game, that being the responsibility of the International Football Association Board of which FIFA is a member, it applies and enforces the rules across all FIFA competitions. All FIFA tournaments generate revenue from sponsorship; in 2018, FIFA had revenues of over US $4.6 billion, ending the 2015–2018 cycle with a net positive of US$1.2 billion, and had cash reserves of over US$2.7 billion.Reports by investigative journalists have linked FIFA leadership with corruption, bribery, and vote-rigging related to the election of FIFA president Sepp Blatter and the organization's decision to award the 2018 and 2022 World Cups to Russia and Qatar, respectively. These allegations led to the indictments of nine high-ranking FIFA officials and five corporate executives by the U.S. Department of Justice on charges including racketeering, wire fraud, and money laundering. On 27 May 2015, several of these officials were arrested by Swiss authorities, who were launching a simultaneous but separate criminal investigation into how the organization awarded the 2018 and 2022 World Cups. Those among these officials who were also indicted in the U.S. are expected to be extradited to face charges there as well. Many officials were suspended by FIFA's ethics committee including Sepp Blatter and Michel Platini. In early 2017, reports became public about FIFA president Gianni Infantino attempting to prevent the re-elections of both chairmen of the ethics committee, Cornel Borbély and Hans-Joachim Eckert, during the FIFA congress in May 2017. On 9 May 2017, following Infantino's proposal, FIFA Council decided not to renew the mandates of Borbély and Eckert. Together with the chairmen, 11 of 13 committee members were removed.
-
-",
-          "title": "FIFA",
-        },
-        "id": "25",
-        "name": "FIFA",
-        "players": Array [],
-        "slug": "fifa",
-      },
-      Object {
-        "description": Object {
-          "text": "No wikipedia text found for this title.",
-          "title": "Rainbow 6 Siege",
-        },
-        "id": "24",
-        "name": "Rainbow 6 Siege",
-        "players": Array [],
-        "slug": "r6-siege",
-      },
-      Object {
-        "description": Object {
-          "text": "Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space. The games were first developed by Infinity Ward, then also by Treyarch and Sledgehammer Games. Several spin-off and handheld games were made by other developers. The most recent title, Call of Duty: Vanguard, was released on November 5, 2021.
-The series originally focused on the World War II setting, with Infinity Ward developing the first (2003) and second (2005) titles in the series and Treyarch developing the third (2006). Call of Duty 4: Modern Warfare (2007) introduced a new, modern setting, and proved to be the breakthrough title for the series, creating the Modern Warfare sub-series. The game's legacy also influenced the creation of a remastered version, released in 2016. Two other entries, Modern Warfare 2 (2009) and Modern Warfare 3 (2011), were made. The sub-series received a reboot with Modern Warfare in 2019. Infinity Ward have also developed two games outside of the Modern Warfare sub-series, Ghosts (2013) and Infinite Warfare (2016). Treyarch made one last World War II-based game, World at War (2008), before releasing Black Ops (2010) and subsequently creating the Black Ops sub-series. Four other entries, Black Ops II (2012), III (2015), 4 (2018), and Cold War (2020) were made, the latter in conjunction with Raven Software. Sledgehammer Games, who were co-developers for Modern Warfare 3, have also developed three titles, Advanced Warfare (2014), WWII (2017), and Vanguard (2021).
-As of April 2021, the series has sold over 400 million copies. Earlier games in the series released to universal acclaim, but several of the more recent installments have received mixed reviews, with some criticzing the series themes, settings, and supposed repetitivity. Meanwhile, the games in the series have consistently released annually to blockbuster-level sales, the series is verified by the Guinness World Records as the best-selling first-person shooter game series. It is also the most successful video game franchise created in the United States and the fourth best-selling video game franchise of all time. Other products in the franchise include a line of action figures designed by Plan B Toys, a card game created by Upper Deck Company, Mega Bloks sets by Mega Brands, and a comic book miniseries published by WildStorm Productions.
-
-",
-          "title": "Call of Duty",
-        },
-        "id": "23",
-        "name": "Call of Duty",
-        "players": Array [],
-        "slug": "cod-mw",
-      },
-      Object {
-        "description": Object {
-          "text": "Rocket League is a vehicular soccer video game developed and published by Psyonix. The game was first released for Microsoft Windows and PlayStation 4 in July 2015, with ports for Xbox One and Nintendo Switch being released later on.  In June 2016, 505 Games began distributing a physical retail version for PlayStation 4 and Xbox One, with Warner Bros. Interactive Entertainment taking over those duties by the end of 2017. Versions for macOS and Linux were also released in 2016, but support for their online services was dropped in 2020. The game went free-to-play in September 2020.
-Described as \\"soccer, but with rocket-powered cars\\", Rocket League has up to eight players assigned to each of the two teams, using rocket-powered vehicles to hit a ball into their opponent's goal and score points over the course of a match. The game includes single-player and multiplayer modes that can be played both locally and online, including cross-platform play between all versions. Later updates for the game enabled the ability to modify core rules and added new game modes, including ones based on ice hockey and basketball.
-Rocket League is a sequel to Psyonix's Supersonic Acrobatic Rocket-Powered Battle-Cars, a 2008 video game for the PlayStation 3. Battle-Cars received mixed reviews and was not a success, but gained a loyal fan base. Psyonix continued to support themselves through contract development work for other studios while looking to develop a sequel. Psyonix began formal development of Rocket League around 2013, refining the gameplay from Battle-Cars to address criticism and fan input. Psyonix also recognized their lack of marketing from Battle-Cars and engaged in both social media and promotions to market the game, including offering the game for free for PlayStation Plus members on release.
-Rocket League was praised for its gameplay improvements over Battle-Cars, as well as its graphics and overall presentation, although some criticism was directed towards the game's physics engine. The game earned a number of industry awards, and saw over 10 million sales and 40 million players by the beginning of 2018. Rocket League has also been adopted as an esport, with professional players participating through ESL and Major League Gaming along with Psyonix's own Rocket League Championship Series (RLCS).",
-          "title": "Rocket League",
-        },
-        "id": "22",
-        "name": "Rocket League",
-        "players": Array [],
-        "slug": "rl",
-      },
-      Object {
-        "description": Object {
-          "text": "PUBG: Battlegrounds (previously known as PlayerUnknown's Battlegrounds, or simply PUBG) is an online multiplayer battle royale game developed and published by PUBG Studios, a subsidiary of Krafton. The game is based on previous mods that were created by Brendan \\"PlayerUnknown\\" Greene for other games, inspired by the 2000 Japanese film Battle Royale, and expanded into a standalone game under Greene's creative direction. In the game, up to one hundred players parachute onto an island and scavenge for weapons and equipment to kill others while avoiding getting killed themselves. The available safe area of the game's map decreases in size over time, directing surviving players into tighter areas to force encounters. The last surviving player (or team) wins the round. This is the first game in the series, named PUBG Universe.
-PUBG: Battlegrounds was first released for Microsoft Windows via Steam's early access beta program in March 2017, with a full release in December 2017. The game was also released by Microsoft Studios for the Xbox One via its Xbox Game Preview program that same month, and officially released in September 2018. PUBG Mobile, a free-to-play mobile game version for Android and iOS, was released in 2018, in addition to a port for the PlayStation 4. A version for the Stadia streaming platform was released in April 2020, Xbox Series X/S and PlayStation 5 versions released in November 2020. 
-PUBG: Battlegrounds is the best-selling video game on PC and Xbox One, also the fifth best-selling video game of all time, sold over 75 million copies on personal computers and game consoles as end of 2021. While the more successful PUBG Mobile's global version has accumulated more than 1 billion downloads and grossed over $8 billion on mobile devices making it the fourth highest-grossing mobile game, combined with the revenue of PC and console game's $4.65 billion, PUBG: Battlegrounds has a total revenue of $12.65 billion as of April 2022, making it one of the highest-grossing video games of all time. Also, combined with 1.12 billion mobile players, PUBG: Battlegrounds has a total player count of 1.2 billion as of August 2021, surpassed Crossfire to be the most-played video game of all time. The main game has been free-to-play since January 2022.
-PUBG received positive reviews from critics, who found that while the game had some technical flaws, it presented new types of gameplay that could be easily approached by players of any skill level and was highly replayable. The game was attributed to popularizing the battle royale genre, with a number of unofficial Chinese clones also being produced following its success. The game received several Game of the Year nominations, among other accolades. PUBG Corporation has run several small tournaments and introduced in-game tools to help with broadcasting the game to spectators, as they wish for it to become a popular esport.",
-          "title": "PUBG: Battlegrounds",
-        },
-        "id": "20",
-        "name": "PUBG",
-        "players": Array [],
-        "slug": "pubg",
-      },
-      Object {
-        "description": Object {
-          "text": "Overwatch is a 2016 team-based multiplayer first-person shooter game developed and published by Blizzard Entertainment. Described as a \\"hero shooter\\", Overwatch assigns players into two teams of six, with each player selecting from a large roster of characters, known as \\"heroes\\", with unique abilities. Teams work to complete map-specific objectives within a limited period of time. Blizzard has added new characters, maps, and game modes post-release, all free of charge, with the only additional cost to players being optional loot boxes to purchase cosmetic items. It was released for PlayStation 4, Xbox One, and Windows in May 2016 and Nintendo Switch in October 2019. An optimized performance patch for the Xbox Series X and Series S was released in March 2021. Cross-platform play is supported across all platforms.
-Overwatch is Blizzard's fourth major franchise and came about following the 2014 cancellation of a massively multiplayer online role-playing game, Titan. A portion of the Titan team were inspired by the success of team-based first-person shooters like Team Fortress 2 and the popularity of multiplayer online battle arena games, creating a hero-based shooter which emphasized teamwork. Some elements of Overwatch borrow concepts from the canceled Titan project.
-Overwatch was unveiled at the 2014 BlizzCon event and was in a closed beta from late 2015 through early 2016. An open beta before release drew in nearly 10 million players. Overwatch received universal acclaim from critics, who praised the game for its accessibility, the diverse appeal of its hero characters, its cartoonish art style, and enjoyable gameplay. Blizzard reported over US$1 billion in revenue during the first year of its release and had more than 50 million players after three years. Overwatch is considered to be among the greatest video games of all time, receiving numerous game of the year awards and other accolades. The game is a popular esport, with Blizzard funding and producing the global Overwatch League.
-A sequel, Overwatch 2, was announced in 2019 and will include new player versus environment (PvE) co-operative multiplayer modes. In addition, it will have a shared competitive multiplayer environment, allowing players of both games to play against each other. While it will be sold as a separate game, all-new heroes, maps, and competitive gamemodes will also exist in Overwatch.",
-          "title": "Overwatch",
-        },
-        "id": "14",
-        "name": "Overwatch",
-        "players": Array [],
-        "slug": "ow",
-      },
-      Object {
-        "description": Object {
-          "text": "Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character known as a \\"hero\\" that all have unique abilities and differing styles of play. During a match players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's \\"Ancient\\", a large structure located within their base.
-Development of Dota 2 began in 2009 when IceFrog, lead designer of Defense of the Ancients, was hired by Valve to create a modernized remake for them in the Source game engine. It was released for Microsoft Windows, OS X, and Linux via the digital distribution platform Steam in July 2013, following a Windows-only open beta phase that began two years prior. The game is fully free-to-play with no heroes or any other gameplay element needing to be bought or otherwise unlocked. To maintain it, Valve supports the game as a service, selling loot boxes and a battle pass subscription system called Dota Plus that offer non-gameplay altering virtual goods in return, such as hero cosmetics and audio replacement packs. The game was ported to the Source 2 engine in 2015, making it the first game to use it.
-Dota 2 has a large esports scene, with teams from around the world playing in various professional leagues and tournaments. Valve manages an event format known as the Dota Pro Circuit, a series of tournaments that award qualification points for earning direct invitations to The International, the game's premier annual tournament. Internationals feature a crowdfunded prize money system that has seen amounts in upwards of US$40 million, making Dota 2 the most lucrative esports game. Media coverage of most tournaments is done by a selection of on-site staff who provide commentary and analysis for the ongoing matches, similar to traditional sporting events. In addition to playing live to audiences in arenas and stadiums, broadcasts of them are also streamed over the internet and sometimes simulcast on television networks, with peak viewership numbers in the millions.
-Despite some criticism going towards its steep learning curve and overall complexity, Dota 2 was praised for its rewarding gameplay, production quality, and faithfulness to its predecessor, with many considering it to be one of the greatest video games of all time. It has been one of the most played games on Steam since its release, with over a million concurrent players at its peak. The popularity of the game has led to official merchandise and media adaptations for it being produced, including comic books and an anime series, as well as promotional tie-ins to other games and media. The game also allows for the community to create their own gamemodes, maps, and cosmetics, which are uploaded to the Steam Workshop. Two spinoff games, Artifact and Dota Underlords, were also released by Valve. Dota 2 has also been used in machine learning experiments, with a team of bots known as the OpenAI Five showing the capability to defeat professional players.
-
-",
-          "title": "Dota 2",
-        },
-        "id": "4",
-        "name": "Dota 2",
-        "players": Array [
-          Object {
-            "id": "41924",
-            "slug": "icq-dea4c78f-a6be-4a0e-a4a6-f5e2f5b9aed1",
-          },
-        ],
-        "slug": "dota-2",
-      },
-      Object {
-        "description": Object {
-          "text": null,
-          "title": null,
-        },
-        "id": "3",
-        "name": "CS:GO",
-        "players": Array [
-          Object {
-            "id": "41923",
-            "slug": "wenzy",
-          },
-          Object {
-            "id": "41922",
-            "slug": "g7h",
-          },
-        ],
-        "slug": "cs-go",
-      },
-      Object {
-        "description": Object {
-          "text": "League of Legends (LoL), commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's founders sought to develop a stand-alone game in the same genre. Since its release in October 2009, League has been free-to-play and is monetized through purchasable character customization. The game is available for Microsoft Windows and macOS.
-In the game, two teams of five players battle in player-versus-player combat, each team occupying and defending their half of the map. Each of the ten players controls a character, known as a \\"champion\\", with unique abilities and differing styles of play. During a match, champions become more powerful by collecting experience points, earning gold, and purchasing items to defeat the opposing team. In League's main mode, Summoner's Rift, a team wins by pushing through to the enemy base and destroying their \\"Nexus\\", a large structure located within.
-League of Legends has received generally positive reviews; critics highlighted its accessibility, character designs, and production value. The game's long lifespan has resulted in a critical reappraisal, with reviews trending positively; the negative and abusive in-game behavior of its players, criticized since early in the game's lifetime, persists despite Riot's attempts to fix the problem. In 2019, League regularly peaked at eight million concurrent players, and its popularity has led to tie-ins such as music videos, comic books, short stories, and an animated series, Arcane. Its success has also spawned several spin-off video games, including a mobile version, a digital collectible card game and a turn-based role-playing game, among others. A massively multiplayer online role-playing game based on the property is in development.
-Regularly cited as the world's largest esport, the game has an international competitive scene consisting of 12 leagues. These domestic leagues culminate in the annual League of Legends World Championship. The 2019 event registered over 100 million unique viewers, peaking at a concurrent viewership of 44 million. Domestic and international events have been broadcast on livestreaming websites such as Twitch, YouTube, Bilibili, and on cable television sports channel ESPN.",
-          "title": "League of Legends",
-        },
-        "id": "1",
-        "name": "LoL",
-        "players": Array [],
-        "slug": "league-of-legends",
-      },
-    ],
-  },
-  "errors": undefined,
-  "extensions": undefined,
-  "http": Object {
-    "headers": Headers {
-      Symbol(map): Object {},
-    },
-  },
-}
-`;
-
 exports[`Video Games Resolver Fetch single videogame 1 1`] = `
 Object {
   "data": Object {
@@ -2348,6 +2519,33 @@ Regularly cited as the world's largest esport, the game has an international com
 `;
 
 exports[`Video Games Resolver Verify Description from wikipedia 1 1`] = `
+Object {
+  "data": Object {
+    "videogame": Object {
+      "description": Object {
+        "text": "League of Legends (LoL), commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's founders sought to develop a stand-alone game in the same genre. Since its release in October 2009, League has been free-to-play and is monetized through purchasable character customization. The game is available for Microsoft Windows and macOS.
+In the game, two teams of five players battle in player-versus-player combat, each team occupying and defending their half of the map. Each of the ten players controls a character, known as a \\"champion\\", with unique abilities and differing styles of play. During a match, champions become more powerful by collecting experience points, earning gold, and purchasing items to defeat the opposing team. In League's main mode, Summoner's Rift, a team wins by pushing through to the enemy base and destroying their \\"Nexus\\", a large structure located within.
+League of Legends has received generally positive reviews; critics highlighted its accessibility, character designs, and production value. The game's long lifespan has resulted in a critical reappraisal, with reviews trending positively; the negative and abusive in-game behavior of its players, criticized since early in the game's lifetime, persists despite Riot's attempts to fix the problem. In 2019, League regularly peaked at eight million concurrent players, and its popularity has led to tie-ins such as music videos, comic books, short stories, and an animated series, Arcane. Its success has also spawned several spin-off video games, including a mobile version, a digital collectible card game and a turn-based role-playing game, among others. A massively multiplayer online role-playing game based on the property is in development.
+Regularly cited as the world's largest esport, the game has an international competitive scene consisting of 12 leagues. These domestic leagues culminate in the annual League of Legends World Championship. The 2019 event registered over 100 million unique viewers, peaking at a concurrent viewership of 44 million. Domestic and international events have been broadcast on livestreaming websites such as Twitch, YouTube, Bilibili, and on cable television sports channel ESPN.",
+        "title": "League of Legends",
+      },
+      "id": "1",
+      "name": "LoL",
+      "players": Array [],
+      "slug": "league-of-legends",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`Video Games Resolver Verify Description from wikipedia 1 2`] = `
 Object {
   "data": Object {
     "videogame": Object {
