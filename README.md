@@ -71,7 +71,7 @@ Variables:
 }
 ```
 
-- player(id: int):- Return a single team
+- ```player(id: int)```:- Return a single team
 
 ```
 query Player($id: ID!) {
@@ -103,7 +103,7 @@ Variables:
     id: 1
 }
 ```
-- teams:- Return a list of teams
+- ```teams```:- Return a list of teams
 
 ```
 query Teams {
@@ -126,7 +126,7 @@ query Teams {
   }
 ```
 
-- team(id: int):- Return a single team
+- ```team(id: int)```:- Return a single team
 ```
 query Team($id: ID!) {
     team(id: $id) {
@@ -154,7 +154,7 @@ Variables
 }
 ```
 
-- videogames:- Returns a list of video games
+- ```videogames```:- Returns a list of video games
 ```
 query Videogames {
     videogames {
@@ -173,7 +173,7 @@ query Videogames {
   }
 ```
 
-- videogame(id: int):- Returns a single video game
+- ```videogame(id: int)```:- Returns a single video game
 
 ```
 query Videogame($id: ID!) {
@@ -198,7 +198,7 @@ query Videogame($id: ID!) {
 }
 ```
 
-- featured:- Returns random players and teams
+- ```featured```:- Returns random players and teams
 
 
 query Featured {
